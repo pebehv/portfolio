@@ -10,7 +10,7 @@ export function Hero() {
           <div className="mb-8">
             <div className="relative w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-[#6B7BF0] shadow-2xl shadow-[#4B1782]/50">
               <ImageWithFallback
-                src="../assets/images/perfil.jpg"
+                src="./assets/images/perfil.jpg"
                 alt="Pebelin Hernández - Desarrolladora Full Stack"
                 className="w-full h-full object-cover"
               />

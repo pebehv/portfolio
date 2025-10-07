@@ -6,7 +6,7 @@ export function Projects() {
     {
       title: "Sistema de Control de Casos",
       description: "Aplicación de Escritorio Híbrida (Desktop App) construida como proyecto final de Patrones y Diseño de Frameworks, combinando Angular para el frontend y ElectronJS para la capa de escritorio.",
-      image: "../assets/images/control-casos.png",
+      image: "./assets/images/control-casos.png",
       technologies: ["Angular", "TypeScript", "ElectronJS", "SQlite"],
       liveUrl: "https://example.com",
       githubUrl: "https://github.com/pebehv/SCI_PDyF",
@@ -15,7 +15,7 @@ export function Projects() {
     {
       title: "Project Management Dashboard",
       description: "Plataforma web para la visualización de datos que monitoriza métricas y el estatus de múltiples proyectos.",
-      image: "../assets/images/dashboard.png",
+      image: "./assets/images/dashboard.png",
       technologies: ["React", "Next.Js", "Tailwind", "TypeScript"],
       liveUrl: "https://dashboard-projec.netlify.app/",
       githubUrl: "https://github.com/pebehv/project-dashboard?tab=readme-ov-file",
@@ -24,7 +24,7 @@ export function Projects() {
     {
       title: "Mere-Bar",
       description: "Uno de los primeros proyectos web, desarrollado para aplicar y consolidar los conceptos básicos de diseño y maquetación.",
-      image: "../assets/images/mere-bar.png",
+      image: "./assets/images/mere-bar.png",
       technologies: ["React", "Bootstrap", "PostgreSQL", "AWS S3", "Docker"],
       liveUrl: "https://pebehv.github.io/Mere-Bar/",
       githubUrl: "https://github.com/pebehv/Mere-Bar",
@@ -33,7 +33,7 @@ export function Projects() {
     {
       title: "Proyecto en Angular",
       description: "Uno de los primeros proyectos web, desarrollado para aplicar y consolidar los conceptos básicos de diseño y maquetación.",
-      image: "../assets/images/angular.png",
+      image: "./assets/images/angular.png",
       technologies: ["Angular", "Bootstrap", "RxJS"],
       liveUrl: "https://pebehv.github.io/pryectoAngular/dist/pryecto-angular/",
       githubUrl: "https://github.com/pebehv/pryectoAngular",
@@ -42,7 +42,7 @@ export function Projects() {
     {
       title: "Hoteles PEBEHV",
       description: "Uno de los primeros proyectos web, desarrollado para aplicar y consolidar los conceptos básicos de diseño y maquetación.",
-      image: "../assets/images/hotel.png",
+      image: "./assets/images/hotel.png",
       technologies: ["HTML", "CSS", "JavaScript",  "Bootstrap"],
       liveUrl: "https://pebehv.github.io/Pagina-Bootstrap/",
       githubUrl: "https://github.com/pebehv/Pagina-Bootstrap",
@@ -51,7 +51,7 @@ export function Projects() {
     {
       title: "NodeJS_HerokUCurso",
       description: "Proyecto práctico para la exploración y dominio de conceptos clave del Back-End.",
-      image: "../assets/images/heroku.png",
+      image: "./assets/images/heroku.png",
       technologies: ["NodeJS", "Heroku", "MongoDB",  "Express"],
       liveUrl: "https://github.com/pebehv/NodeJS_HerokUCurso/tree/master",
       githubUrl: "https://github.com/pebehv/NodeJS_HerokUCurso/tree/master",
@@ -60,7 +60,7 @@ export function Projects() {
     {
       title: "Prog_Paralelo_MPI",
       description: "Proyecto práctico de la asigantura de Fundamentos de la Programación Paralela.",
-      image: "../assets/images/paralela.png",
+      image: "./assets/images/paralela.png",
       technologies: ["C", "MPI", "OpenMP"],
       liveUrl: "https://github.com/pebehv/Prog_Paralelo_MPI/blob/master/01-nbody.c",
       githubUrl: "https://github.com/pebehv/Prog_Paralelo_MPI/blob/master/01-nbody.c",
